@@ -50,7 +50,6 @@ Next, open the codebase up in your favourite text editor and spend a few minutes
 ```sh
 code .
 ```
-
 Now that we know what we're dealing with, let's get the project checked in to a version control system. 
 
 ```sh
